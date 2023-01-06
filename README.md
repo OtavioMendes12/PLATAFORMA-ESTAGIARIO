@@ -3,9 +3,9 @@
 ** Login e senha para teste para tela do administrador: **
 * email: usuarioteste@gmail.com
 * Senha: testeteste
-** Login e senha para teste para tela de Usuário(Estagiário): **
-  *email: estagiarioteste@gmail.com
-  *Senha: estagiarioteste
+* ** Login e senha para teste para tela de Usuário(Estagiário): **
+*email: estagiarioteste@gmail.com
+*Senha: estagiarioteste
 
 
 
