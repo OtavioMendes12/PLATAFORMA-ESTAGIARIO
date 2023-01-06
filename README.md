@@ -1,3 +1,15 @@
+## Login na plataforma
+ **Site:** https://frontend-gold-pi.vercel.app/
+** Login e senha para teste para tela do administrador: **
+* email: usuarioteste@gmail.com
+* Senha: testeteste
+** Login e senha para teste para tela de Usuário(Estagiário): **
+  *email: estagiarioteste@gmail.com
+  *Senha: estagiarioteste
+
+
+
+
 ## Contextualização
 
 Toda empresa tem foco no seu crescimento e destaque no hall de empreendimentos de sua determinada área. Não importa qual seguimento a empresa esteja inserida, toda organização carece de profissionais qualificados.
